@@ -1,7 +1,7 @@
 # AccuracyTesting
 
-To use this repo.
-clone it in VS
+To use this repo. 
+clone it in VS and extract the RAR file
 
 then open LeetCode-in-Net
 
